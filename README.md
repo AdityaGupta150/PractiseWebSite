@@ -22,6 +22,7 @@
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
+Thanks to @bchiang7, you may directly fork from her _original_ repository.
 
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
 
